@@ -1,7 +1,5 @@
 README.md
 target/
-app.log
-screenshots/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**
 !**/src/test/**
